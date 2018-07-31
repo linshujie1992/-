@@ -1,31 +1,10 @@
----
-description: 以为
----
+# 动画师操作规范
 
-# 这里是最大的标题
+一位伟大的动画师曾经说过：
 
-Getting Super Powers
+> **想要打破规则，就得先了解规则**
 
-## Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-## 新的标题自动加淡横线
-
-果然是这样的！
+## 
 
 
 
