@@ -10,7 +10,7 @@
 
 > 在CGteamwork上，一般在工程文件对应的文件夹目录下，新建一个“history”文件夹，在里面放置备份文件即可。
 
-## 不要引用同一个绑定文件
+## 不要同时引用同一个绑定文件
 
 在同一个场景文件下，如果你要同时引用同一个绑定文件A1，那请将A1复制多一份为A2，再分别引用A1和A2。
 
@@ -22,23 +22,19 @@
 
 ![&#x5206;&#x522B;&#x5F15;&#x7528;&#x591A;&#x4E2A;&#x6587;&#x4EF6;&#xFF0C;&#x4F7F;&#x524D;&#x7F00;&#x4E0D;&#x540C;](.gitbook/assets/yin-yong-tong-ge-bang-ding-wen-jian-2.png)
 
-
-
 ## 删除引用文件的多余前缀
 
-二次引用转import后、或一次引用时，文件名前有时会有多余的前缀，可以在namspace edits 窗口里删除掉 。确保最后只留下 root 层级的前缀
+二次引用转import后、或一次引用时，文件名前有时会有多余的前缀，可以在namspace edits 窗口里删除掉 。如果有弹出窗口，一般选择“merge with root”选项，确保最后只留下 root 层级的前缀
 
 > 如果有多余前缀，后期渲染时会出现名称不对应，导致出错~
 
 ![&#x5220;&#x9664;&#x5F15;&#x7528;&#x6587;&#x4EF6;&#x7684;&#x591A;&#x4F59;&#x524D;&#x7F00;](.gitbook/assets/shan-chu-duo-yu-qian-zhui.png)
 
-
-
 ## 引用文件时务必将前缀也引用上
 
+引用时确保勾选namespaces选项，这样不会出现前缀名丢失的情况
 
-
-
+![](.gitbook/assets/yin-yong-shi-gou-xuan-namespaces-xuan-xiang.png)
 
 
 
