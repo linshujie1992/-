@@ -34,11 +34,17 @@
 
 引用时确保勾选namespaces选项，这样不会出现前缀名丢失的情况
 
-![](.gitbook/assets/yin-yong-shi-gou-xuan-namespaces-xuan-xiang.png)
+![&#x52FE;&#x9009;namespaces&#x9009;&#x9879;](.gitbook/assets/yin-yong-shi-gou-xuan-namespaces-xuan-xiang.png)
 
+## 检查文件里的动画是否干净
 
+开始正式动画作业前，都请务必检查文件里的动画数据是否是**干净的**、**正确的**。在制作的过程中，也要这种随时检查的情况。
 
-
+> 在前期layout中会残留一些错误的K动画信息，比如直接给模型K了动画
+>
+> 绑定组在制作绑定时，有时也会给文件K动画而忘记删除了
+>
+> 所以，在拿到这些旧layout文件或新的绑定文件时，都请检查清楚
 
 
 

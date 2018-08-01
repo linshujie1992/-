@@ -22,9 +22,9 @@
 
 ![&#x62CD;&#x5C4F;&#x8BBE;&#x7F6E;&#x9700;&#x52FE;&#x9009;strokes](.gitbook/assets/pai-ping-she-zhi-strokes2.png)
 
+下图中的头顶毛发就是用strokes制作的，发现这种情况，请及时反馈
+
 ![&#x62CD;&#x5C4F;&#x8BBE;&#x7F6E;&#x9700;&#x52FE;&#x9009;strokes](.gitbook/assets/pai-ping-she-zhi-strokes.jpg)
-
-
 
 ## 注意画面外与镜头的穿插
 
